@@ -19,9 +19,11 @@ CNNs use a variation of multilayer perceptrons designed to require minimal prepr
 
 They have applications in image and video recognition, recommender systems and natural language processing.
 
+![cnnOverview](https://camo.githubusercontent.com/9e6e118e373b1ca1b8b53c8a70d4baf08840d768/68747470733a2f2f7777772e6d617468776f726b732e636f6d2f636f6e74656e742f6d617468776f726b732f7777772f656e2f646973636f766572792f636f6e766f6c7574696f6e616c2d6e657572616c2d6e6574776f726b2f6a63723a636f6e74656e742f6d61696e5061727379732f696d6167655f636f70792e61646170742e66756c6c2e686967682e6a70672f313439373837363337323939332e6a7067)
+
 ## How to train my NN?
 
-There are some lines that must be edited according your needs,
+There are some lines that must be edited according to your needs,
 
 ```
 
